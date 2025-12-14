@@ -214,7 +214,7 @@ void epilogue_summary() {
     }
 
     cout << "\nBlonde Blazer's impression of Robert is shaped by his public behavior. Impression Score: " << Blazer_Impression_Score << endl;
-    if (Blazer_Impression_Score >= 3) {
+    if (Blazer_Impression_Score >= 5) {
         cout << "She vividly remembers the chaotic bar scene and sees him as bold and memorable." << endl;
     } 
     else {
